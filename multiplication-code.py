@@ -8,3 +8,5 @@ p=13
 q=31
 k=q-p
 print ("substraction of p and q is",k)
+print(c)
+print(k)
